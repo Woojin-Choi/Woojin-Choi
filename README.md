@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=panda1996)](https://velog.io/@panda1996)
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Woojin-Choi&theme=dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Woojin-Choi)](https://git.io/streak-stats)
